@@ -1,0 +1,22 @@
+{
+  "name": "api-200-3min",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JellyBellyDev/api-200-3min.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JellyBellyDev/api-200-3min/issues"
+  },
+  "homepage": "https://github.com/JellyBellyDev/api-200-3min#readme",
+  "dependencies": {
+    "fastify": "^3.12.0"
+  }
+}
